@@ -4,6 +4,7 @@
 
 - 1단계: GPIO 기본 (입출력 제어)
 
+
 - 가장 기본이 되는 디지털 신호 제어입니다.
 - 실습 내용: blink_1LED와 toggle_LED 구현하기
 - 핵심 레지스터: DDRx, PORTx, PINx
