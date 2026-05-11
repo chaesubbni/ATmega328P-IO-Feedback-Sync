@@ -2,6 +2,8 @@
 
 - 이 프로젝트는 ATmega328P의 I/O 포트 제어 시 발생하는 물리적 동기화 지연을 분석하고, 이를 소프트웨어적으로 해결하기 위한 _NOP() 명령어의 필요성을 하드웨어 타이밍 관점에서 검증하는 프로젝트입니다.
 
+- 완전 자세한 설명은 네이버 블로그에서 확인하실 수 있습니다!!
+
 ### 1. General Digital I/O 회로도
 <img width="787" height="680" alt="image (4)" src="https://github.com/user-attachments/assets/11eaaa01-d146-4ece-aa5d-7452568f7e27" />
 
